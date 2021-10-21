@@ -49,7 +49,7 @@
 
 [website]: https://sanjais.netlify.app/
 [discord]: https://discordapp.com/users/Sanjai#8639
-[linkedin]: www.linkedin.com/in/sanjai-s-5309b8172
+[linkedin]: https://linkedin.com/in/sanjai-s-5309b8172
 [VSCode]: https://code.visualstudio.com/
 [HTML5]: https://en.wikipedia.org/wiki/HTML5
 [CSS]: https://en.wikipedia.org/wiki/CSS
