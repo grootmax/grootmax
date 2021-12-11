@@ -11,9 +11,15 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / Piano / DAW's
 
+<div>
+    <img src="https://komarev.com/ghpvc/?username=grootmax">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/grootmax?style=social">
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/grootmax?style=social">
+</div>
+
 ### Connect with me:
 
-[<img align="left" alt="sanjais.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="sanjais.netlify.app" width="22px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" />][website]
 [<img align="left" alt="Sanjai | Discord" width="22px" src="https://cdn.cdnlogo.com/logos/d/38/discord.svg" />][discord]
 [<img align="left" alt="Sanjai | LinkedIn" width="22px" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" />][linkedin]
 
@@ -37,13 +43,17 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GITHUB]
 
 
+
 <br />
 <br />
 
-
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=grootmax&show_icons=true&locale=en&layout=compact" alt="Sanjai" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grootmax&show_icons=true&locale=en" alt="Sanjai" /></p>
 
+<p>&nbsp;<img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=grootmax&show_icons=true&locale=en" alt="Sanjai" /></p>
+</div>
+
+<img width="740" src = "https://github-profile-trophy.vercel.app/?username=grootmax&row=1">
 
 
 
