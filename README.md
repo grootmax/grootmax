@@ -6,9 +6,9 @@
 ## I'm a Developer, Literarian, and Music enthusiast!!
 
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently exploring 🙇🏽
 - 👯 I’m looking to collaborate with other developer
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / Piano / DAW's
 
 <div>
